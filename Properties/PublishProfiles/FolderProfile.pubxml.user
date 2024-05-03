@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\wolf_\source\repos\SMPP_API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-10T20:18:51.1074628Z;True|2024-04-10T13:14:34.9259681-07:00;True|2024-04-10T13:12:49.2280596-07:00;True|2024-04-10T13:12:35.3481852-07:00;True|2024-04-10T13:09:25.1167229-07:00;True|2024-04-10T08:58:39.0096007-07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
